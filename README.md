@@ -11,10 +11,14 @@ Lean Phase 0 website for LaunchProof, a software-engineer-led Shopify Store Jour
 - 48–72 hour delivery after scope, access and context are ready
 - No invented clients, results, testimonials, logos or revenue claims
 - No agency-scale or conversion-guarantee claims
+- Fees shared privately after a prospect contacts LaunchProof
+- Founder attribution: Nathaniel “Nath” Alcantara
 
 ## Hosting
 
-The site is intentionally dependency-free and works directly on GitHub Pages. It is currently marked `noindex, nofollow` until public search indexing is approved.
+The site is intentionally dependency-free and works directly on GitHub Pages. Search indexing is enabled with `index, follow`.
+
+A custom domain and branded email are intentionally deferred until Nath chooses to purchase and configure them.
 
 ## Local preview
 
